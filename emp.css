@@ -1,0 +1,62 @@
+.fa-trash , .fa-pencil-square-o {
+    font-size:20px;
+    color:orangered;
+    text-align: center;
+}
+
+#output {
+    border: 8px solid rgb(239, 246, 247);
+    padding: 15px;
+    width:50%;
+    align-content: center;
+    margin:auto;
+}
+
+#heading{
+    font-size:20px;
+}
+
+*{
+   color:rgb(77, 73, 73);
+}
+
+#result {
+    border-collapse: collapse;
+    width: 100%;
+    }
+
+th,td {
+
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    text-align: center;
+    }
+
+#add{
+    background-color:rgb(113, 200, 235);
+    border-radius: 20px;
+    color:white;
+    float:right;
+    font-size: 20px;
+    border-color:rgb(113, 200, 235);
+    box-shadow:rgb(113, 200, 235) ;
+}
+
+#empForm{
+    color:grey;
+    size:15px;
+    text-align: center;
+    display:none;
+}
+
+.input{
+    background-color:rgb(113, 200, 235);
+    color:white;
+    font-size:15px;
+    border-color:rgb(113, 200, 235);
+}
+
+#clickableAwesomeFont {
+    cursor: pointer;
+}
